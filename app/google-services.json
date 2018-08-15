@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "540040816646",
+    "firebase_url": "https://myapplication-f947d.firebaseio.com",
+    "project_id": "myapplication-f947d",
+    "storage_bucket": "myapplication-f947d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540040816646:android:30f5d5aed5f38276",
+        "android_client_info": {
+          "package_name": "com.example.priyanakagoel.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540040816646-31012qhmtdguc6plrnq7lh0kjvmfre7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.priyanakagoel.myapplication",
+            "certificate_hash": "ad97d7bae0a8c94667a04cb0b662e2bd333cfa9f"
+          }
+        },
+        {
+          "client_id": "540040816646-m25t5ck3tebodppfn1237hnthltkmjg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQ9dkqJpDLx-CZRkQL1A7D_SAdOXEiy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540040816646-m25t5ck3tebodppfn1237hnthltkmjg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540040816646:android:848111f7fd702150",
+        "android_client_info": {
+          "package_name": "com.example.priyanakagoel.noticeboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540040816646-0o6chba8uid54bskbr2v8gf380hh0bk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.priyanakagoel.noticeboard",
+            "certificate_hash": "ad97d7bae0a8c94667a04cb0b662e2bd333cfa9f"
+          }
+        },
+        {
+          "client_id": "540040816646-m25t5ck3tebodppfn1237hnthltkmjg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQ9dkqJpDLx-CZRkQL1A7D_SAdOXEiy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540040816646-m25t5ck3tebodppfn1237hnthltkmjg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

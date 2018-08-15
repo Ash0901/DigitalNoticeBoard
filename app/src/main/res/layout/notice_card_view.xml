@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="#dddddd"
+    android:elevation="@dimen/mtrl_bottomappbar_fab_cradle_rounded_corner_radius"
+    app:cardCornerRadius="7dp"
+    android:layout_margin="7dp"
+    android:foregroundGravity="center"
+    android:id="@+id/my_notice_card_view">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="2dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Title:"
+                android:textColor="#afafaf"
+                android:textSize="16sp"
+                android:fontFamily="Arial"/>
+            <TextView
+                android:id="@+id/sa_tv1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="20"
+                android:text="Heading"
+                android:textSize="30sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Date/Time:"
+                android:textColor="#afafaf"
+                android:textSize="10sp" />
+            <TextView
+                android:id="@+id/sa_tv2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="15"
+                android:text="Date/Time"
+                android:textColor="#bbbbbb"
+                android:textSize="10sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Posted By:"
+                android:textColor="#afafaf"
+                android:textSize="10sp" />
+            <TextView
+                android:id="@+id/sa_tv3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="15"
+                android:text="Posted By"
+                android:textColor="#bbbbbb"
+                android:textSize="10sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/sa_tv4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine"
+            android:text="Hello Text... Message"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
