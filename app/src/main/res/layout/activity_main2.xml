@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:weightSum="14"
     android:background="@drawable/sample"
-    tools:context=".Main2Activity">
+    tools:context="com.example.shivamagarwal.noticeboard.Main2Activity">
 
     <TextView
         android:layout_width="match_parent"

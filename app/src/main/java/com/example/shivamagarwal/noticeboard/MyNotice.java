@@ -1,4 +1,4 @@
-package com.example.priyanakagoel.noticeboard;
+package com.example.shivamagarwal.noticeboard;
 
 public class MyNotice {
     public String heading;

@@ -1,4 +1,4 @@
-package com.example.priyanakagoel.noticeboard;
+package com.example.shivamagarwal.noticeboard;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -9,6 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.shivamagarwal.noticeboard.R;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 

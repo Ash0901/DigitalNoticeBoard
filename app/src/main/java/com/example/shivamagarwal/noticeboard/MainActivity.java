@@ -1,4 +1,4 @@
-package com.example.priyanakagoel.noticeboard;
+package com.example.shivamagarwal.noticeboard;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -18,6 +18,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+import com.example.shivamagarwal.noticeboard.R;
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;

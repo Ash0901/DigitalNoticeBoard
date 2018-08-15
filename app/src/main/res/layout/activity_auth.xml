@@ -7,7 +7,7 @@
     android:gravity="center"
     android:background="@drawable/sample"
     android:orientation="vertical"
-    tools:context=".AuthActivity">
+    tools:context="com.example.shivamagarwal.noticeboard.AuthActivity">
     <ImageView
         android:id="@+id/s_img"
         android:layout_width="wrap_content"

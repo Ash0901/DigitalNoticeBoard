@@ -1,4 +1,4 @@
-package com.example.priyanakagoel.noticeboard;
+package com.example.shivamagarwal.noticeboard;
 
 import org.junit.Test;
 
